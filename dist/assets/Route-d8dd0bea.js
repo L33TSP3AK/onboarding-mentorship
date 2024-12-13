@@ -1,0 +1,1 @@
+import{d as n,u as s,c as o,o as r,a as u,m as c,b as _,_ as l}from"./index-93e4125f.js";const d=n({__name:"Route",setup(m){const t=s(),e=o(()=>t.currentRoute.value.meta.config);return(a,p)=>(r(),u(_(l),c(e.value,{extends:String(e.value.extends||"base")}),null,16,["extends"]))}});export{d as default};
